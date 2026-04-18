@@ -1,10 +1,8 @@
 # Weather Dashboard
 
-[![Luxury Weather Dashboard](https://img.shields.io/badge/Luxury-Weather-Dashboard-black?style=flat&logo=weather&color=1e1e1e)](https://github.com/)
-
 A **high-end, luxurious dark-mode weather dashboard** with glassmorphism design, smooth Framer Motion animations, and real-time data from Open-Meteo API. Built with React, Express, TypeScript, Tailwind, and shadcn/ui.
 
-![Screenshot](https://via.placeholder.com/1200x800/1a1a1a/ffffff?text=Luxury+Weather+Dashboard) <!-- Replace with actual screenshot -->
+
 
 ## ✨ Features
 
